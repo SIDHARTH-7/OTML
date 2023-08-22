@@ -1,2 +1,2 @@
 # OTML
-Mathematical Algorithms for Machine Learning
+Basic Mathematical Algorithms for Machine Learning
